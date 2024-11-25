@@ -1,0 +1,1001 @@
+title,genre,narrative,length,ratings
+Slaughterhouse-Five,Fiction,plot-driven,short,4.61
+The Bell Jar,Sci-Fi,plot-driven,short,4.14
+War and Peace,Classics,character-driven,long,4.23
+Ender's Game,Fantasy,plot-driven,long,4.05
+Moby Dick,Children,plot-driven,short,4.42
+The Fault in Our Stars,Romance,character-driven,long,4.31
+War and Peace,Mystery,character-driven,medium,3.64
+Catch-22,Historical,plot-driven,medium,3.28
+Anna Karenina,Magical Realism,character-driven,medium,4.13
+The Road,Philosophy,character-driven,long,3.58
+The Maze Runner,Satire,character-driven,medium,3.43
+Alice's Adventures in Wonderland,Magical Realism,plot-driven,short,4.59
+Fahrenheit 451,Romance,plot-driven,short,4.89
+Dracula,Adventure,plot-driven,short,4.08
+The Picture of Dorian Gray,Fiction,plot-driven,medium,4.61
+The Lord of the Rings,Horror,plot-driven,medium,4.89
+Brave New World,Magical Realism,plot-driven,short,4.32
+The Girl with the Dragon Tattoo,Adventure,plot-driven,medium,4.91
+The Da Vinci Code,Mystery,character-driven,short,4.42
+The Giver,Classics,character-driven,long,4.41
+To Kill a Mockingbird,Magical Realism,plot-driven,short,4.03
+The Kite Runner,Classics,plot-driven,medium,4.21
+Jane Eyre,Children,plot-driven,long,3.62
+The Alchemist,Historical,character-driven,long,4.02
+The Road,Adventure,character-driven,short,3.36
+The Old Man and the Sea,Romance,character-driven,long,4.82
+The Count of Monte Cristo,Horror,plot-driven,short,4.59
+The Bell Jar,Children,character-driven,short,4.48
+Brave New World,Historical,plot-driven,short,4.78
+Moby Dick,Satire,character-driven,medium,4.84
+Catch-22,Adventure,character-driven,short,4.44
+The Picture of Dorian Gray,Sci-Fi,character-driven,long,4.61
+Crime and Punishment,Horror,plot-driven,long,3.25
+The Night Circus,Classics,character-driven,short,4.34
+War and Peace,Classics,character-driven,long,4.24
+Percy Jackson & the Olympians: The Lightning Thief,Philosophy,character-driven,short,3.19
+The Fault in Our Stars,Dystopian,plot-driven,short,4.62
+Slaughterhouse-Five,Sci-Fi,plot-driven,long,4.27
+Fahrenheit 451,Satire,character-driven,medium,4.66
+Dune,Mystery,character-driven,short,4.55
+Ender's Game,Magical Realism,plot-driven,short,3.8
+To Kill a Mockingbird,Magical Realism,character-driven,long,4.13
+The Da Vinci Code,Dystopian,plot-driven,long,3.86
+The Old Man and the Sea,Satire,character-driven,medium,4.55
+Harry Potter and the Philosopher's Stone,Dystopian,plot-driven,long,4.8
+The Girl with the Dragon Tattoo,Mystery,character-driven,medium,4.67
+Pride and Prejudice,Sci-Fi,plot-driven,medium,4.38
+The Alchemist,Romance,plot-driven,short,3.91
+The Fault in Our Stars,Magical Realism,character-driven,medium,4.59
+Pride and Prejudice,Children,character-driven,short,4.04
+The Girl on the Train,Dystopian,plot-driven,long,3.86
+Frankenstein,Fantasy,character-driven,medium,4.89
+Moby Dick,Fiction,character-driven,short,4.43
+The Girl on the Train,Horror,plot-driven,medium,4.33
+Dune,Historical,character-driven,short,3.54
+Ender's Game,Adventure,plot-driven,long,3.49
+A Tale of Two Cities,Historical,character-driven,long,4.85
+Jane Eyre,Adventure,character-driven,long,3.09
+Frankenstein,Dystopian,plot-driven,long,3.56
+The Secret Garden,Children,plot-driven,long,3.83
+The Hobbit,Fiction,plot-driven,medium,4.66
+Fahrenheit 451,Adventure,character-driven,long,3.81
+The Book Thief,Romance,plot-driven,medium,4.25
+One Hundred Years of Solitude,Romance,character-driven,long,4.97
+Ender's Game,Romance,plot-driven,long,3.68
+Harry Potter and the Philosopher's Stone,Philosophy,character-driven,short,3.51
+The Night Circus,Dystopian,plot-driven,medium,3.07
+Big Little Lies,Magical Realism,plot-driven,medium,4.87
+1984,Historical,plot-driven,short,3.29
+The Odyssey,Classics,character-driven,short,4.78
+The Picture of Dorian Gray,Fantasy,plot-driven,medium,4.81
+Catch-22,Adventure,character-driven,short,4.62
+The Maze Runner,Satire,plot-driven,medium,4.76
+Brave New World,Sci-Fi,plot-driven,long,4.17
+The Odyssey,Fantasy,plot-driven,long,4.43
+A Thousand Splendid Suns,Magical Realism,character-driven,short,4.63
+Lolita,Sci-Fi,plot-driven,short,4.04
+The Secret Garden,Dystopian,plot-driven,short,4.79
+The Little Prince,Magical Realism,character-driven,long,4.13
+The Girl on the Train,Philosophy,character-driven,medium,4.8
+The Hunger Games,Fantasy,character-driven,medium,4.24
+The Picture of Dorian Gray,Philosophy,plot-driven,short,4.99
+The Catcher in the Rye,Fiction,plot-driven,medium,4.28
+Brave New World,Horror,plot-driven,medium,3.51
+Memoirs of a Geisha,Classics,character-driven,medium,4.01
+The Book Thief,Horror,character-driven,short,3.65
+A Tale of Two Cities,Historical,character-driven,medium,4.77
+Brave New World,Satire,plot-driven,short,3.88
+The Picture of Dorian Gray,Fantasy,plot-driven,short,4.71
+Frankenstein,Romance,plot-driven,medium,4.5
+The Little Prince,Philosophy,character-driven,medium,4.54
+The Shining,Horror,character-driven,medium,3.65
+The Old Man and the Sea,Fiction,plot-driven,short,4.11
+The Kite Runner,Sci-Fi,plot-driven,medium,4.77
+The Secret Garden,Magical Realism,character-driven,medium,3.8
+Moby Dick,Classics,character-driven,medium,4.0
+The Girl with the Dragon Tattoo,Magical Realism,character-driven,medium,3.53
+Memoirs of a Geisha,Historical,character-driven,long,4.55
+The Picture of Dorian Gray,Fiction,plot-driven,short,4.73
+The Book Thief,Mystery,plot-driven,medium,3.31
+Slaughterhouse-Five,Dystopian,plot-driven,short,4.58
+Slaughterhouse-Five,Classics,character-driven,long,4.18
+The Secret Garden,Romance,character-driven,short,4.22
+Frankenstein,Classics,plot-driven,long,4.93
+The Giver,Romance,plot-driven,short,3.3
+A Thousand Splendid Suns,Magical Realism,plot-driven,medium,3.41
+Brave New World,Mystery,character-driven,medium,3.42
+Gone with the Wind,Philosophy,plot-driven,long,4.03
+The Picture of Dorian Gray,Romance,plot-driven,long,3.2
+The Secret Garden,Fantasy,character-driven,medium,4.04
+Percy Jackson & the Olympians: The Lightning Thief,Dystopian,character-driven,long,3.3
+The Girl with the Dragon Tattoo,Magical Realism,character-driven,medium,3.23
+Catch-22,Adventure,plot-driven,short,3.4
+Harry Potter and the Philosopher's Stone,Adventure,character-driven,medium,3.89
+The Odyssey,Classics,plot-driven,medium,4.76
+The Old Man and the Sea,Mystery,character-driven,long,3.74
+The Count of Monte Cristo,Philosophy,character-driven,long,3.37
+Les Misérables,Romance,plot-driven,long,3.53
+The Alchemist,Romance,plot-driven,medium,4.27
+The Maze Runner,Satire,character-driven,long,4.18
+Alice's Adventures in Wonderland,Fantasy,character-driven,long,4.86
+Jane Eyre,Philosophy,plot-driven,medium,3.14
+The Odyssey,Philosophy,character-driven,medium,4.01
+Catch-22,Adventure,character-driven,long,4.59
+The Great Gatsby,Adventure,character-driven,long,4.98
+Alice's Adventures in Wonderland,Horror,plot-driven,short,4.36
+The Bell Jar,Mystery,character-driven,short,3.97
+Dune,Fiction,character-driven,medium,4.12
+Percy Jackson & the Olympians: The Lightning Thief,Magical Realism,plot-driven,medium,4.5
+The Count of Monte Cristo,Sci-Fi,character-driven,long,4.76
+1984,Satire,character-driven,long,4.91
+Jane Eyre,Philosophy,plot-driven,short,3.95
+The Lord of the Rings,Adventure,plot-driven,long,4.15
+Moby Dick,Fiction,plot-driven,medium,4.06
+Anna Karenina,Historical,plot-driven,medium,4.94
+The Lord of the Rings,Children,plot-driven,medium,3.63
+The Chronicles of Narnia,Dystopian,plot-driven,medium,3.42
+Brave New World,Historical,character-driven,medium,3.9
+Life of Pi,Children,character-driven,short,3.55
+The Alchemist,Classics,character-driven,short,4.43
+Lolita,Satire,plot-driven,short,3.49
+Alice's Adventures in Wonderland,Magical Realism,plot-driven,short,3.2
+The Maze Runner,Fantasy,character-driven,short,4.13
+A Game of Thrones,Satire,character-driven,medium,4.61
+The Secret Garden,Horror,plot-driven,medium,4.86
+The Giver,Satire,character-driven,short,4.33
+The Old Man and the Sea,Dystopian,character-driven,long,3.91
+Memoirs of a Geisha,Adventure,plot-driven,short,4.18
+A Game of Thrones,Sci-Fi,plot-driven,short,4.26
+The Maze Runner,Historical,plot-driven,long,4.78
+Catch-22,Fantasy,plot-driven,short,4.19
+Slaughterhouse-Five,Horror,character-driven,long,3.88
+A Thousand Splendid Suns,Horror,plot-driven,short,3.81
+The Maze Runner,Horror,character-driven,short,3.17
+Pride and Prejudice,Satire,plot-driven,long,3.79
+The Road,Satire,plot-driven,short,3.55
+Lolita,Fiction,plot-driven,medium,4.06
+Dune,Sci-Fi,character-driven,long,4.24
+A Tale of Two Cities,Adventure,plot-driven,medium,3.21
+Brave New World,Historical,character-driven,long,4.99
+Crime and Punishment,Fiction,plot-driven,long,4.04
+The Night Circus,Adventure,plot-driven,long,3.21
+Crime and Punishment,Classics,character-driven,medium,4.96
+The Maze Runner,Fiction,character-driven,short,4.22
+To Kill a Mockingbird,Dystopian,character-driven,long,4.88
+The Great Gatsby,Fantasy,plot-driven,medium,4.87
+The Road,Classics,plot-driven,long,4.51
+A Thousand Splendid Suns,Fiction,plot-driven,short,4.25
+Fahrenheit 451,Philosophy,plot-driven,short,4.54
+War and Peace,Satire,character-driven,medium,4.5
+Moby Dick,Horror,character-driven,short,3.91
+Percy Jackson & the Olympians: The Lightning Thief,Horror,plot-driven,short,3.47
+Percy Jackson & the Olympians: The Lightning Thief,Fiction,character-driven,long,4.63
+The Lord of the Rings,Fantasy,plot-driven,medium,4.37
+The Little Prince,Satire,plot-driven,long,3.67
+The Giver,Fantasy,character-driven,long,4.31
+A Game of Thrones,Classics,plot-driven,medium,4.93
+The Maze Runner,Magical Realism,character-driven,long,4.88
+Anna Karenina,Satire,plot-driven,long,4.53
+Alice's Adventures in Wonderland,Dystopian,plot-driven,long,3.26
+Dune,Romance,plot-driven,long,4.39
+The Picture of Dorian Gray,Romance,character-driven,medium,4.18
+The Odyssey,Satire,plot-driven,long,3.08
+Brave New World,Historical,plot-driven,short,3.27
+Les Misérables,Fantasy,character-driven,medium,4.23
+Harry Potter and the Philosopher's Stone,Horror,character-driven,long,4.01
+A Tale of Two Cities,Fantasy,character-driven,medium,4.77
+Jane Eyre,Horror,plot-driven,short,3.71
+The Shining,Mystery,character-driven,medium,4.5
+The Alchemist,Fiction,character-driven,short,4.49
+War and Peace,Historical,character-driven,long,4.79
+The Chronicles of Narnia,Classics,plot-driven,long,4.89
+Frankenstein,Philosophy,plot-driven,short,4.29
+The Great Gatsby,Philosophy,plot-driven,long,3.09
+The Alchemist,Romance,plot-driven,short,3.4
+Dune,Satire,character-driven,short,4.19
+The Hobbit,Mystery,character-driven,short,4.21
+The Lord of the Rings,Historical,plot-driven,long,3.78
+The Book Thief,Sci-Fi,plot-driven,short,4.52
+Pride and Prejudice,Fiction,plot-driven,short,4.24
+Wuthering Heights,Sci-Fi,plot-driven,short,4.57
+A Game of Thrones,Classics,plot-driven,short,4.21
+Memoirs of a Geisha,Fantasy,character-driven,medium,4.04
+War and Peace,Mystery,plot-driven,medium,3.5
+Catch-22,Mystery,plot-driven,long,4.04
+Moby Dick,Sci-Fi,character-driven,long,4.04
+Jane Eyre,Historical,plot-driven,long,3.53
+The Alchemist,Fiction,character-driven,medium,4.4
+Anna Karenina,Satire,plot-driven,medium,3.68
+The Lord of the Rings,Fiction,character-driven,medium,4.21
+The Girl with the Dragon Tattoo,Children,plot-driven,short,4.12
+The Da Vinci Code,Fantasy,plot-driven,medium,4.71
+The Catcher in the Rye,Fantasy,plot-driven,long,4.64
+A Tale of Two Cities,Philosophy,character-driven,medium,4.17
+The Alchemist,Mystery,plot-driven,medium,3.2
+Harry Potter and the Philosopher's Stone,Romance,character-driven,short,3.17
+The Night Circus,Satire,plot-driven,short,3.31
+The Shining,Adventure,character-driven,medium,3.35
+The Alchemist,Fiction,plot-driven,medium,4.53
+The Night Circus,Adventure,character-driven,medium,4.25
+Anna Karenina,Romance,plot-driven,long,4.35
+Memoirs of a Geisha,Philosophy,character-driven,short,3.02
+Dune,Romance,plot-driven,short,4.64
+A Game of Thrones,Philosophy,plot-driven,short,4.42
+Alice's Adventures in Wonderland,Children,plot-driven,long,4.05
+Pride and Prejudice,Horror,plot-driven,medium,3.48
+The Book Thief,Philosophy,plot-driven,short,4.4
+Big Little Lies,Dystopian,plot-driven,long,4.85
+The Little Prince,Magical Realism,character-driven,long,4.0
+Harry Potter and the Philosopher's Stone,Mystery,plot-driven,long,4.92
+The Chronicles of Narnia,Fiction,character-driven,medium,4.55
+A Game of Thrones,Sci-Fi,character-driven,medium,4.7
+A Game of Thrones,Sci-Fi,plot-driven,long,4.84
+1984,Sci-Fi,plot-driven,long,4.93
+Harry Potter and the Philosopher's Stone,Fiction,character-driven,medium,4.72
+Dracula,Mystery,character-driven,long,4.29
+Fahrenheit 451,Philosophy,plot-driven,long,3.3
+The Hobbit,Horror,character-driven,short,3.69
+Alice's Adventures in Wonderland,Fiction,character-driven,short,4.86
+The Picture of Dorian Gray,Magical Realism,character-driven,long,3.91
+Anna Karenina,Classics,plot-driven,long,4.09
+Fahrenheit 451,Sci-Fi,plot-driven,long,4.07
+The Count of Monte Cristo,Satire,plot-driven,medium,4.72
+1984,Romance,plot-driven,long,4.26
+To Kill a Mockingbird,Fiction,character-driven,short,4.25
+The Odyssey,Classics,character-driven,short,4.37
+Fahrenheit 451,Sci-Fi,plot-driven,long,4.9
+The Catcher in the Rye,Philosophy,character-driven,long,3.28
+1984,Dystopian,plot-driven,medium,4.57
+Big Little Lies,Philosophy,plot-driven,long,3.91
+Ender's Game,Philosophy,plot-driven,short,4.28
+The Da Vinci Code,Fantasy,plot-driven,long,4.2
+The Girl on the Train,Historical,plot-driven,short,4.78
+1984,Children,character-driven,medium,3.61
+Crime and Punishment,Satire,plot-driven,long,4.89
+The Bell Jar,Fiction,character-driven,short,4.49
+Memoirs of a Geisha,Fiction,character-driven,long,4.05
+The Night Circus,Fiction,plot-driven,long,4.28
+Slaughterhouse-Five,Adventure,plot-driven,long,4.45
+Percy Jackson & the Olympians: The Lightning Thief,Fantasy,character-driven,long,4.19
+Fahrenheit 451,Classics,character-driven,medium,4.02
+Moby Dick,Horror,plot-driven,short,4.73
+The Hunger Games,Historical,plot-driven,medium,4.51
+Moby Dick,Fiction,character-driven,medium,4.34
+The Hunger Games,Adventure,plot-driven,short,4.01
+The Hunger Games,Mystery,character-driven,long,3.02
+A Tale of Two Cities,Horror,plot-driven,short,4.17
+One Hundred Years of Solitude,Adventure,character-driven,short,3.65
+Les Misérables,Adventure,plot-driven,long,3.24
+The Catcher in the Rye,Romance,character-driven,short,4.52
+Alice's Adventures in Wonderland,Satire,character-driven,short,4.19
+The Night Circus,Adventure,character-driven,medium,3.34
+The Shining,Fantasy,plot-driven,short,4.01
+The Secret Garden,Fantasy,plot-driven,long,4.85
+The Giver,Dystopian,character-driven,short,4.74
+Brave New World,Horror,plot-driven,short,4.64
+Crime and Punishment,Mystery,character-driven,short,4.49
+Dune,Satire,character-driven,short,4.29
+Alice's Adventures in Wonderland,Romance,character-driven,medium,4.41
+Alice's Adventures in Wonderland,Children,plot-driven,long,4.43
+One Hundred Years of Solitude,Adventure,character-driven,short,4.05
+Percy Jackson & the Olympians: The Lightning Thief,Dystopian,character-driven,short,4.24
+The Road,Horror,character-driven,short,3.03
+The Alchemist,Mystery,plot-driven,short,4.77
+The Fault in Our Stars,Historical,character-driven,short,5.0
+Ender's Game,Horror,plot-driven,long,4.23
+Crime and Punishment,Adventure,character-driven,medium,4.29
+The Shining,Fantasy,plot-driven,medium,4.67
+The Secret Garden,Adventure,plot-driven,medium,4.53
+The Picture of Dorian Gray,Historical,character-driven,short,3.65
+Moby Dick,Dystopian,character-driven,long,4.6
+Lolita,Philosophy,plot-driven,long,3.64
+Dracula,Classics,plot-driven,short,4.3
+The Little Prince,Mystery,plot-driven,short,3.83
+Anna Karenina,Philosophy,character-driven,short,3.2
+Gone with the Wind,Horror,plot-driven,long,4.08
+The Lord of the Rings,Fantasy,plot-driven,long,4.62
+Harry Potter and the Philosopher's Stone,Horror,character-driven,short,4.78
+Ender's Game,Adventure,plot-driven,medium,4.0
+Les Misérables,Historical,plot-driven,long,3.77
+The Giver,Dystopian,character-driven,short,3.28
+The Shining,Magical Realism,plot-driven,long,3.8
+Life of Pi,Adventure,character-driven,medium,4.64
+The Shining,Romance,character-driven,medium,3.55
+Memoirs of a Geisha,Fiction,plot-driven,short,4.05
+The Maze Runner,Satire,plot-driven,long,4.54
+The Chronicles of Narnia,Romance,character-driven,long,4.55
+A Game of Thrones,Romance,character-driven,long,4.1
+Anna Karenina,Adventure,character-driven,long,3.4
+Wuthering Heights,Fantasy,plot-driven,long,4.27
+The Girl on the Train,Children,plot-driven,short,4.31
+The Bell Jar,Philosophy,character-driven,short,3.02
+To Kill a Mockingbird,Horror,character-driven,long,3.15
+Life of Pi,Classics,plot-driven,short,4.58
+Anna Karenina,Sci-Fi,plot-driven,long,4.64
+The Alchemist,Dystopian,character-driven,long,4.51
+Lolita,Sci-Fi,plot-driven,short,4.67
+Anna Karenina,Adventure,character-driven,long,3.08
+War and Peace,Horror,plot-driven,long,3.69
+The Giver,Philosophy,character-driven,short,4.09
+Jane Eyre,Satire,character-driven,short,4.89
+Dune,Philosophy,character-driven,long,4.17
+Memoirs of a Geisha,Adventure,plot-driven,medium,4.58
+The Picture of Dorian Gray,Fiction,plot-driven,short,4.74
+The Hobbit,Children,plot-driven,medium,3.71
+The Night Circus,Horror,plot-driven,medium,4.23
+The Girl with the Dragon Tattoo,Horror,character-driven,long,4.12
+Ender's Game,Satire,plot-driven,long,3.06
+The Hobbit,Mystery,character-driven,medium,4.55
+The Odyssey,Satire,plot-driven,medium,4.08
+The Fault in Our Stars,Satire,plot-driven,long,4.64
+Les Misérables,Adventure,plot-driven,long,4.16
+Alice's Adventures in Wonderland,Historical,plot-driven,medium,3.54
+The Little Prince,Philosophy,plot-driven,medium,4.1
+The Night Circus,Historical,plot-driven,short,4.22
+1984,Philosophy,plot-driven,long,4.81
+The Girl with the Dragon Tattoo,Adventure,character-driven,short,3.63
+The Chronicles of Narnia,Romance,plot-driven,short,4.63
+The Odyssey,Adventure,plot-driven,long,4.2
+Crime and Punishment,Sci-Fi,character-driven,medium,4.7
+The Bell Jar,Horror,character-driven,short,4.08
+Catch-22,Dystopian,character-driven,short,3.37
+Wuthering Heights,Magical Realism,character-driven,long,4.48
+The Secret Garden,Fiction,plot-driven,long,4.54
+A Game of Thrones,Romance,character-driven,short,3.35
+Alice's Adventures in Wonderland,Romance,character-driven,short,4.4
+The Kite Runner,Adventure,character-driven,long,3.79
+Dune,Satire,character-driven,long,3.96
+Gone with the Wind,Satire,plot-driven,long,3.17
+The Great Gatsby,Horror,character-driven,short,3.63
+The Alchemist,Magical Realism,character-driven,medium,4.07
+To Kill a Mockingbird,Adventure,character-driven,short,3.1
+To Kill a Mockingbird,Classics,plot-driven,medium,4.35
+Harry Potter and the Philosopher's Stone,Historical,plot-driven,medium,4.19
+The Maze Runner,Sci-Fi,plot-driven,long,4.68
+Wuthering Heights,Horror,plot-driven,long,4.01
+The Catcher in the Rye,Fiction,character-driven,short,4.59
+Alice's Adventures in Wonderland,Fiction,character-driven,short,4.49
+The Count of Monte Cristo,Satire,character-driven,medium,3.19
+The Picture of Dorian Gray,Magical Realism,plot-driven,medium,4.95
+Anna Karenina,Fiction,plot-driven,medium,4.05
+Slaughterhouse-Five,Romance,plot-driven,medium,3.67
+1984,Magical Realism,plot-driven,long,3.44
+The Girl with the Dragon Tattoo,Philosophy,character-driven,short,3.79
+Gone with the Wind,Horror,plot-driven,medium,4.88
+The Da Vinci Code,Romance,plot-driven,long,3.81
+The Shining,Mystery,character-driven,short,3.15
+War and Peace,Mystery,plot-driven,medium,4.72
+The Lord of the Rings,Horror,character-driven,medium,3.58
+The Great Gatsby,Philosophy,character-driven,short,3.59
+The Road,Children,character-driven,medium,4.11
+Fahrenheit 451,Horror,plot-driven,long,4.66
+Big Little Lies,Classics,character-driven,medium,4.32
+The Book Thief,Dystopian,character-driven,short,4.24
+A Game of Thrones,Classics,character-driven,short,4.78
+Big Little Lies,Magical Realism,character-driven,medium,3.86
+The Road,Classics,character-driven,long,4.12
+To Kill a Mockingbird,Mystery,character-driven,medium,4.6
+Big Little Lies,Dystopian,plot-driven,long,3.4
+Jane Eyre,Children,plot-driven,short,3.92
+The Shining,Magical Realism,plot-driven,short,4.64
+Memoirs of a Geisha,Horror,character-driven,medium,3.24
+Pride and Prejudice,Classics,character-driven,medium,4.98
+The Shining,Horror,character-driven,medium,4.23
+Memoirs of a Geisha,Children,character-driven,short,4.39
+The Girl with the Dragon Tattoo,Fantasy,character-driven,medium,4.58
+The Night Circus,Fantasy,plot-driven,short,4.67
+The Count of Monte Cristo,Philosophy,character-driven,short,3.67
+Dracula,Magical Realism,plot-driven,long,4.72
+Lolita,Mystery,plot-driven,medium,3.09
+The Maze Runner,Fantasy,character-driven,medium,4.85
+The Odyssey,Adventure,plot-driven,short,4.29
+Big Little Lies,Fantasy,plot-driven,long,4.64
+The Little Prince,Romance,character-driven,short,4.93
+To Kill a Mockingbird,Magical Realism,character-driven,medium,4.51
+The Catcher in the Rye,Fantasy,plot-driven,medium,4.35
+The Giver,Philosophy,character-driven,medium,4.84
+The Kite Runner,Historical,character-driven,medium,4.17
+The Count of Monte Cristo,Sci-Fi,plot-driven,short,4.51
+The Little Prince,Philosophy,plot-driven,long,4.75
+A Thousand Splendid Suns,Romance,character-driven,short,4.83
+Dune,Romance,character-driven,medium,4.51
+Alice's Adventures in Wonderland,Historical,plot-driven,short,4.15
+The Giver,Dystopian,plot-driven,long,4.86
+The Shining,Magical Realism,character-driven,long,3.35
+The Alchemist,Fantasy,character-driven,long,4.09
+The Bell Jar,Children,plot-driven,short,4.01
+The Picture of Dorian Gray,Classics,plot-driven,medium,4.08
+Harry Potter and the Philosopher's Stone,Horror,character-driven,short,3.0
+The Book Thief,Horror,character-driven,medium,4.13
+The Book Thief,Satire,character-driven,short,3.43
+Harry Potter and the Philosopher's Stone,Children,character-driven,medium,3.65
+Life of Pi,Fiction,character-driven,medium,4.16
+The Girl with the Dragon Tattoo,Philosophy,character-driven,short,3.31
+The Girl with the Dragon Tattoo,Romance,character-driven,short,4.17
+Les Misérables,Historical,plot-driven,medium,4.17
+The Count of Monte Cristo,Horror,plot-driven,long,4.54
+The Shining,Mystery,character-driven,long,3.84
+Anna Karenina,Mystery,character-driven,medium,4.22
+Les Misérables,Dystopian,character-driven,long,4.15
+The Bell Jar,Romance,plot-driven,short,3.69
+Jane Eyre,Children,plot-driven,medium,3.82
+One Hundred Years of Solitude,Fantasy,plot-driven,short,4.94
+Crime and Punishment,Horror,plot-driven,long,3.93
+Les Misérables,Adventure,character-driven,short,4.64
+The Hobbit,Dystopian,character-driven,short,4.66
+The Great Gatsby,Classics,plot-driven,medium,4.16
+A Thousand Splendid Suns,Fiction,plot-driven,short,4.42
+The Maze Runner,Fantasy,character-driven,long,4.32
+Catch-22,Classics,character-driven,medium,4.61
+The Giver,Horror,plot-driven,medium,4.33
+A Tale of Two Cities,Horror,character-driven,long,3.14
+A Game of Thrones,Romance,character-driven,long,4.93
+To Kill a Mockingbird,Philosophy,plot-driven,long,4.7
+The Little Prince,Satire,plot-driven,short,3.87
+The Fault in Our Stars,Fantasy,plot-driven,long,4.39
+1984,Romance,plot-driven,long,3.28
+The Picture of Dorian Gray,Fantasy,character-driven,long,4.81
+1984,Magical Realism,character-driven,short,3.52
+Life of Pi,Satire,character-driven,short,3.42
+Big Little Lies,Philosophy,character-driven,medium,4.76
+Moby Dick,Satire,character-driven,medium,3.99
+The Book Thief,Fiction,plot-driven,long,4.16
+The Count of Monte Cristo,Classics,character-driven,medium,4.07
+Big Little Lies,Adventure,plot-driven,medium,3.26
+To Kill a Mockingbird,Romance,plot-driven,short,4.95
+The Girl on the Train,Children,character-driven,long,4.1
+The Girl on the Train,Romance,character-driven,short,3.29
+The Odyssey,Fantasy,plot-driven,short,4.69
+Percy Jackson & the Olympians: The Lightning Thief,Historical,character-driven,short,3.63
+The Odyssey,Historical,plot-driven,medium,4.26
+Gone with the Wind,Classics,character-driven,medium,4.41
+The Book Thief,Mystery,plot-driven,long,4.78
+Crime and Punishment,Classics,plot-driven,long,4.98
+The Shining,Classics,plot-driven,short,4.88
+Lolita,Romance,plot-driven,medium,3.59
+Anna Karenina,Magical Realism,character-driven,medium,3.98
+The Da Vinci Code,Satire,character-driven,medium,3.2
+The Old Man and the Sea,Adventure,plot-driven,medium,3.43
+Gone with the Wind,Historical,plot-driven,medium,4.45
+One Hundred Years of Solitude,Fantasy,plot-driven,short,4.68
+Les Misérables,Children,plot-driven,short,4.2
+Dune,Philosophy,character-driven,long,3.87
+Wuthering Heights,Adventure,plot-driven,long,3.25
+Slaughterhouse-Five,Sci-Fi,plot-driven,long,4.53
+Frankenstein,Adventure,plot-driven,long,5.0
+The Bell Jar,Fantasy,plot-driven,short,4.66
+The Road,Fantasy,character-driven,short,4.17
+One Hundred Years of Solitude,Fiction,character-driven,long,4.83
+Catch-22,Fantasy,character-driven,medium,4.82
+Moby Dick,Fiction,plot-driven,long,4.23
+Wuthering Heights,Fantasy,character-driven,medium,4.76
+The Shining,Adventure,plot-driven,long,4.47
+War and Peace,Classics,plot-driven,short,4.84
+Brave New World,Children,plot-driven,short,3.53
+Lolita,Adventure,plot-driven,medium,3.24
+The Alchemist,Classics,character-driven,short,4.93
+1984,Dystopian,plot-driven,medium,3.77
+The Old Man and the Sea,Satire,plot-driven,short,4.76
+Wuthering Heights,Satire,plot-driven,medium,3.36
+Percy Jackson & the Olympians: The Lightning Thief,Adventure,plot-driven,long,3.7
+Moby Dick,Fiction,plot-driven,medium,4.44
+1984,Dystopian,character-driven,medium,3.28
+Ender's Game,Philosophy,plot-driven,long,4.38
+The Girl on the Train,Fantasy,character-driven,medium,4.2
+A Tale of Two Cities,Romance,plot-driven,short,3.25
+A Tale of Two Cities,Fantasy,plot-driven,medium,4.38
+Catch-22,Romance,character-driven,short,3.0
+Percy Jackson & the Olympians: The Lightning Thief,Fiction,plot-driven,short,4.8
+To Kill a Mockingbird,Sci-Fi,plot-driven,short,4.7
+Les Misérables,Romance,plot-driven,long,4.12
+Ender's Game,Sci-Fi,character-driven,short,4.93
+The Girl with the Dragon Tattoo,Romance,plot-driven,short,4.49
+Frankenstein,Adventure,character-driven,medium,4.96
+Percy Jackson & the Olympians: The Lightning Thief,Dystopian,plot-driven,medium,3.13
+The Count of Monte Cristo,Adventure,character-driven,long,4.29
+The Count of Monte Cristo,Fantasy,character-driven,short,4.73
+The Bell Jar,Satire,plot-driven,long,3.73
+The Girl on the Train,Magical Realism,plot-driven,medium,3.84
+1984,Classics,plot-driven,long,4.07
+A Thousand Splendid Suns,Adventure,plot-driven,long,4.56
+The Shining,Classics,plot-driven,short,4.68
+The Maze Runner,Sci-Fi,plot-driven,short,4.45
+The Hunger Games,Philosophy,character-driven,short,4.36
+1984,Mystery,plot-driven,short,3.91
+Gone with the Wind,Mystery,plot-driven,short,3.31
+The Shining,Sci-Fi,plot-driven,short,4.29
+Frankenstein,Satire,plot-driven,medium,3.57
+Frankenstein,Adventure,character-driven,long,3.68
+The Kite Runner,Sci-Fi,character-driven,medium,4.06
+The Hobbit,Magical Realism,plot-driven,long,4.22
+The Chronicles of Narnia,Dystopian,character-driven,long,4.51
+Pride and Prejudice,Children,character-driven,long,3.61
+Fahrenheit 451,Fiction,character-driven,medium,4.25
+Lolita,Historical,plot-driven,short,3.52
+The Hunger Games,Fantasy,character-driven,medium,4.22
+The Great Gatsby,Historical,plot-driven,long,4.47
+Slaughterhouse-Five,Satire,character-driven,short,4.97
+Big Little Lies,Fiction,plot-driven,medium,4.46
+To Kill a Mockingbird,Fiction,plot-driven,long,4.69
+Ender's Game,Dystopian,plot-driven,medium,4.73
+The Secret Garden,Horror,character-driven,medium,3.6
+War and Peace,Mystery,character-driven,short,4.2
+Jane Eyre,Horror,character-driven,medium,3.44
+The Maze Runner,Adventure,character-driven,long,4.24
+The Catcher in the Rye,Adventure,character-driven,medium,4.64
+A Tale of Two Cities,Horror,plot-driven,long,3.65
+The Shining,Historical,character-driven,long,3.49
+A Tale of Two Cities,Fiction,character-driven,medium,4.71
+Jane Eyre,Horror,plot-driven,long,4.49
+The Girl on the Train,Philosophy,plot-driven,short,4.49
+The Book Thief,Adventure,plot-driven,long,4.8
+The Odyssey,Romance,character-driven,long,3.03
+The Fault in Our Stars,Sci-Fi,plot-driven,medium,4.55
+The Catcher in the Rye,Magical Realism,plot-driven,long,4.52
+War and Peace,Satire,plot-driven,long,4.14
+Anna Karenina,Philosophy,plot-driven,short,4.78
+A Tale of Two Cities,Magical Realism,character-driven,long,3.94
+Frankenstein,Fantasy,character-driven,short,4.69
+The Count of Monte Cristo,Historical,character-driven,long,4.89
+The Fault in Our Stars,Fantasy,plot-driven,long,4.81
+The Night Circus,Historical,plot-driven,short,3.76
+Brave New World,Horror,character-driven,medium,4.98
+Pride and Prejudice,Horror,character-driven,long,3.13
+A Tale of Two Cities,Fantasy,plot-driven,short,4.78
+The Kite Runner,Fiction,plot-driven,short,4.15
+The Girl with the Dragon Tattoo,Dystopian,plot-driven,medium,3.47
+The Girl on the Train,Satire,character-driven,medium,3.05
+The Little Prince,Magical Realism,plot-driven,medium,3.76
+The Road,Horror,plot-driven,short,3.57
+To Kill a Mockingbird,Historical,plot-driven,short,3.42
+Memoirs of a Geisha,Adventure,plot-driven,medium,3.83
+The Shining,Classics,character-driven,short,4.82
+The Chronicles of Narnia,Fantasy,plot-driven,medium,4.76
+The Great Gatsby,Philosophy,plot-driven,medium,4.27
+A Tale of Two Cities,Fiction,plot-driven,medium,4.47
+The Da Vinci Code,Satire,character-driven,short,4.91
+The Count of Monte Cristo,Fiction,plot-driven,short,4.09
+Les Misérables,Fantasy,plot-driven,short,4.69
+The Book Thief,Fantasy,character-driven,long,4.32
+War and Peace,Mystery,character-driven,medium,4.49
+The Girl on the Train,Mystery,plot-driven,long,4.32
+The Night Circus,Horror,character-driven,short,3.57
+Catch-22,Fantasy,character-driven,short,4.18
+Ender's Game,Dystopian,plot-driven,long,3.03
+Pride and Prejudice,Satire,plot-driven,short,4.53
+A Tale of Two Cities,Satire,plot-driven,medium,4.15
+Alice's Adventures in Wonderland,Adventure,character-driven,medium,4.94
+The Night Circus,Children,character-driven,medium,3.88
+Wuthering Heights,Fiction,plot-driven,short,4.86
+The Hunger Games,Fiction,character-driven,medium,4.43
+Moby Dick,Adventure,plot-driven,long,3.92
+The Road,Fantasy,plot-driven,long,4.88
+Alice's Adventures in Wonderland,Fiction,plot-driven,short,4.09
+The Girl on the Train,Satire,character-driven,long,4.33
+Pride and Prejudice,Fantasy,character-driven,long,4.36
+War and Peace,Satire,character-driven,short,4.79
+Pride and Prejudice,Fantasy,character-driven,short,4.82
+A Game of Thrones,Dystopian,character-driven,medium,3.85
+The Secret Garden,Fantasy,character-driven,short,4.7
+Les Misérables,Satire,character-driven,short,4.42
+The Book Thief,Mystery,character-driven,long,3.36
+The Secret Garden,Children,plot-driven,medium,3.54
+Jane Eyre,Sci-Fi,plot-driven,short,4.69
+The Chronicles of Narnia,Fiction,character-driven,long,4.5
+The Girl with the Dragon Tattoo,Fiction,character-driven,medium,4.25
+The Great Gatsby,Romance,plot-driven,short,3.25
+The Girl on the Train,Classics,plot-driven,short,4.76
+Dune,Adventure,character-driven,medium,4.61
+A Thousand Splendid Suns,Sci-Fi,plot-driven,medium,4.23
+Slaughterhouse-Five,Satire,plot-driven,long,3.82
+Alice's Adventures in Wonderland,Magical Realism,character-driven,short,3.28
+The Old Man and the Sea,Historical,plot-driven,long,4.59
+The Bell Jar,Mystery,plot-driven,long,4.2
+The Maze Runner,Mystery,character-driven,short,3.83
+Jane Eyre,Satire,character-driven,short,3.32
+Life of Pi,Children,character-driven,medium,4.07
+The Great Gatsby,Historical,plot-driven,medium,3.81
+The Hobbit,Satire,character-driven,medium,5.0
+1984,Dystopian,character-driven,medium,3.7
+War and Peace,Historical,plot-driven,long,3.73
+A Tale of Two Cities,Classics,character-driven,long,4.11
+The Hobbit,Classics,plot-driven,medium,4.21
+Dune,Children,character-driven,short,4.12
+The Maze Runner,Historical,plot-driven,medium,3.22
+The Girl with the Dragon Tattoo,Mystery,plot-driven,medium,3.1
+Ender's Game,Satire,plot-driven,long,3.78
+The Shining,Fantasy,character-driven,short,4.56
+A Thousand Splendid Suns,Sci-Fi,plot-driven,short,4.0
+Les Misérables,Dystopian,character-driven,short,3.08
+Percy Jackson & the Olympians: The Lightning Thief,Children,plot-driven,medium,3.93
+The Road,Sci-Fi,plot-driven,long,4.91
+A Game of Thrones,Romance,plot-driven,medium,3.18
+Anna Karenina,Satire,character-driven,short,4.58
+The Old Man and the Sea,Fiction,character-driven,short,4.71
+To Kill a Mockingbird,Fiction,plot-driven,long,4.2
+Brave New World,Classics,character-driven,short,4.38
+The Road,Adventure,plot-driven,short,4.98
+Catch-22,Dystopian,character-driven,short,3.72
+Life of Pi,Magical Realism,character-driven,long,4.64
+A Game of Thrones,Adventure,plot-driven,medium,4.52
+The Kite Runner,Fiction,character-driven,short,4.85
+Pride and Prejudice,Fiction,plot-driven,short,4.59
+Gone with the Wind,Horror,character-driven,long,4.76
+The Bell Jar,Children,plot-driven,long,3.99
+Alice's Adventures in Wonderland,Children,plot-driven,short,4.21
+Brave New World,Adventure,character-driven,medium,3.05
+Percy Jackson & the Olympians: The Lightning Thief,Horror,character-driven,long,4.34
+A Thousand Splendid Suns,Children,character-driven,long,4.14
+Jane Eyre,Satire,character-driven,long,4.09
+Percy Jackson & the Olympians: The Lightning Thief,Satire,plot-driven,long,3.0
+Memoirs of a Geisha,Romance,character-driven,short,3.65
+Moby Dick,Romance,character-driven,long,3.03
+1984,Mystery,character-driven,short,3.13
+The Bell Jar,Satire,character-driven,long,3.14
+The Da Vinci Code,Fantasy,character-driven,medium,4.17
+The Maze Runner,Satire,character-driven,medium,3.17
+Dracula,Fantasy,plot-driven,short,4.67
+The Chronicles of Narnia,Horror,plot-driven,short,3.93
+One Hundred Years of Solitude,Magical Realism,character-driven,short,4.14
+The Odyssey,Fiction,plot-driven,short,4.11
+Dune,Horror,character-driven,short,4.24
+Crime and Punishment,Magical Realism,character-driven,short,3.19
+Frankenstein,Romance,plot-driven,short,4.67
+Harry Potter and the Philosopher's Stone,Satire,character-driven,short,3.37
+The Giver,Dystopian,character-driven,long,3.26
+Memoirs of a Geisha,Magical Realism,character-driven,short,3.61
+The Old Man and the Sea,Magical Realism,character-driven,long,4.31
+The Hobbit,Satire,plot-driven,short,4.55
+Alice's Adventures in Wonderland,Romance,plot-driven,short,3.29
+The Old Man and the Sea,Philosophy,plot-driven,long,4.28
+The Lord of the Rings,Adventure,plot-driven,medium,3.71
+The Girl with the Dragon Tattoo,Dystopian,plot-driven,short,3.1
+The Hobbit,Classics,character-driven,short,4.47
+The Giver,Philosophy,character-driven,long,4.57
+A Tale of Two Cities,Philosophy,character-driven,medium,4.65
+Brave New World,Horror,character-driven,short,4.18
+The Count of Monte Cristo,Romance,character-driven,long,3.92
+The Hunger Games,Fiction,plot-driven,long,4.12
+The Kite Runner,Adventure,character-driven,short,4.15
+Percy Jackson & the Olympians: The Lightning Thief,Dystopian,plot-driven,short,3.06
+Catch-22,Satire,character-driven,medium,3.6
+Life of Pi,Philosophy,character-driven,medium,4.87
+Life of Pi,Philosophy,plot-driven,medium,3.49
+Dune,Children,plot-driven,medium,4.16
+The Road,Satire,character-driven,short,3.16
+The Girl with the Dragon Tattoo,Mystery,character-driven,short,3.81
+Lolita,Fiction,plot-driven,short,4.35
+The Count of Monte Cristo,Romance,plot-driven,short,3.4
+Frankenstein,Horror,plot-driven,long,4.67
+Anna Karenina,Fantasy,character-driven,long,4.85
+The Odyssey,Romance,character-driven,medium,3.14
+The Girl with the Dragon Tattoo,Dystopian,plot-driven,medium,4.95
+Jane Eyre,Fantasy,plot-driven,short,4.46
+The Count of Monte Cristo,Historical,character-driven,medium,4.19
+The Fault in Our Stars,Sci-Fi,plot-driven,long,4.28
+Life of Pi,Children,plot-driven,long,4.17
+Anna Karenina,Fiction,character-driven,short,4.74
+The Lord of the Rings,Romance,character-driven,long,3.57
+Wuthering Heights,Philosophy,character-driven,long,3.87
+One Hundred Years of Solitude,Magical Realism,character-driven,long,3.4
+War and Peace,Satire,character-driven,short,4.24
+Crime and Punishment,Horror,character-driven,medium,3.38
+Frankenstein,Fantasy,plot-driven,medium,4.76
+The Lord of the Rings,Romance,plot-driven,medium,4.69
+Gone with the Wind,Horror,plot-driven,short,4.32
+The Catcher in the Rye,Dystopian,character-driven,short,4.14
+The Bell Jar,Sci-Fi,character-driven,short,4.32
+Ender's Game,Mystery,character-driven,long,4.71
+Life of Pi,Fantasy,plot-driven,long,4.48
+Brave New World,Satire,character-driven,short,3.85
+The Hobbit,Classics,character-driven,medium,4.79
+The Odyssey,Philosophy,character-driven,short,3.47
+Slaughterhouse-Five,Horror,plot-driven,long,3.45
+The Girl with the Dragon Tattoo,Classics,character-driven,medium,4.86
+Fahrenheit 451,Sci-Fi,plot-driven,long,4.41
+Ender's Game,Children,plot-driven,short,3.85
+Catch-22,Satire,character-driven,medium,4.21
+Harry Potter and the Philosopher's Stone,Romance,character-driven,short,4.83
+One Hundred Years of Solitude,Historical,plot-driven,long,3.85
+Ender's Game,Children,plot-driven,long,3.65
+The Great Gatsby,Magical Realism,plot-driven,long,4.77
+The Book Thief,Fantasy,plot-driven,short,4.95
+Wuthering Heights,Romance,character-driven,short,4.1
+Wuthering Heights,Philosophy,character-driven,medium,3.21
+The Bell Jar,Philosophy,character-driven,medium,3.99
+Anna Karenina,Classics,character-driven,medium,4.48
+The Hunger Games,Historical,plot-driven,long,3.61
+The Alchemist,Magical Realism,character-driven,medium,3.23
+Slaughterhouse-Five,Romance,plot-driven,medium,3.66
+The Catcher in the Rye,Mystery,plot-driven,short,3.27
+Fahrenheit 451,Horror,character-driven,long,3.36
+Alice's Adventures in Wonderland,Satire,character-driven,short,4.7
+Lolita,Romance,plot-driven,medium,4.97
+Big Little Lies,Sci-Fi,character-driven,short,4.7
+The Maze Runner,Satire,character-driven,short,3.09
+The Alchemist,Classics,plot-driven,short,4.63
+The Odyssey,Dystopian,plot-driven,medium,4.17
+The Da Vinci Code,Children,plot-driven,short,3.71
+The Shining,Classics,plot-driven,medium,4.44
+The Alchemist,Romance,plot-driven,medium,3.26
+To Kill a Mockingbird,Sci-Fi,character-driven,long,4.09
+Lolita,Philosophy,plot-driven,long,3.52
+A Tale of Two Cities,Dystopian,character-driven,medium,4.2
+The Da Vinci Code,Magical Realism,character-driven,long,3.95
+The Old Man and the Sea,Fantasy,character-driven,short,4.2
+Dune,Dystopian,plot-driven,short,4.94
+The Hunger Games,Satire,character-driven,long,3.59
+Alice's Adventures in Wonderland,Magical Realism,character-driven,short,3.19
+Brave New World,Historical,character-driven,long,3.1
+The Road,Classics,character-driven,short,4.56
+The Hobbit,Horror,character-driven,short,3.94
+The Shining,Satire,plot-driven,medium,3.86
+1984,Historical,character-driven,long,4.9
+A Game of Thrones,Horror,character-driven,short,3.95
+The Hobbit,Horror,plot-driven,long,4.93
+The Alchemist,Satire,plot-driven,medium,4.29
+One Hundred Years of Solitude,Romance,character-driven,long,3.53
+1984,Mystery,character-driven,medium,4.46
+The Hunger Games,Children,plot-driven,short,3.7
+1984,Children,plot-driven,short,3.61
+Slaughterhouse-Five,Sci-Fi,character-driven,medium,4.8
+Lolita,Mystery,plot-driven,short,4.47
+The Road,Classics,plot-driven,short,4.95
+The Girl on the Train,Mystery,plot-driven,short,4.06
+The Hunger Games,Mystery,character-driven,short,4.64
+Alice's Adventures in Wonderland,Fantasy,character-driven,long,4.17
+Fahrenheit 451,Children,plot-driven,long,3.92
+The Catcher in the Rye,Horror,character-driven,medium,4.19
+Gone with the Wind,Philosophy,plot-driven,short,3.62
+Pride and Prejudice,Mystery,character-driven,long,4.39
+Dune,Satire,character-driven,medium,4.52
+Moby Dick,Classics,character-driven,long,4.16
+Gone with the Wind,Horror,plot-driven,long,3.11
+Frankenstein,Romance,character-driven,medium,4.07
+The Great Gatsby,Classics,character-driven,short,4.3
+The Chronicles of Narnia,Horror,plot-driven,medium,4.66
+The Road,Children,plot-driven,long,3.5
+Memoirs of a Geisha,Classics,character-driven,short,4.9
+The Odyssey,Philosophy,plot-driven,long,4.22
+Pride and Prejudice,Historical,plot-driven,medium,3.15
+The Shining,Romance,plot-driven,long,4.85
+Ender's Game,Mystery,plot-driven,medium,3.51
+Jane Eyre,Classics,character-driven,medium,4.85
+The Secret Garden,Children,character-driven,long,3.73
+Les Misérables,Children,character-driven,long,4.08
+Slaughterhouse-Five,Mystery,plot-driven,long,4.61
+Ender's Game,Horror,plot-driven,medium,4.0
+The Chronicles of Narnia,Sci-Fi,plot-driven,medium,4.67
+A Game of Thrones,Children,plot-driven,short,3.79
+Anna Karenina,Romance,character-driven,medium,3.37
+The Girl with the Dragon Tattoo,Romance,character-driven,long,4.75
+Lolita,Mystery,plot-driven,medium,4.36
+Jane Eyre,Dystopian,character-driven,long,4.13
+The Great Gatsby,Horror,plot-driven,short,4.7
+The Chronicles of Narnia,Classics,plot-driven,medium,4.59
+Fahrenheit 451,Classics,character-driven,short,4.52
+Anna Karenina,Magical Realism,plot-driven,medium,4.08
+1984,Satire,plot-driven,long,3.4
+The Odyssey,Mystery,character-driven,long,4.6
+Wuthering Heights,Magical Realism,character-driven,long,4.7
+The Night Circus,Dystopian,character-driven,medium,3.92
+Lolita,Dystopian,plot-driven,short,3.44
+Slaughterhouse-Five,Philosophy,character-driven,medium,4.73
+The Count of Monte Cristo,Horror,character-driven,medium,3.59
+The Night Circus,Adventure,plot-driven,long,3.75
+The Kite Runner,Classics,character-driven,short,4.08
+Fahrenheit 451,Romance,character-driven,short,4.34
+The Old Man and the Sea,Sci-Fi,plot-driven,short,4.67
+Ender's Game,Philosophy,plot-driven,long,4.72
+To Kill a Mockingbird,Adventure,plot-driven,long,3.25
+1984,Romance,plot-driven,short,3.55
+Anna Karenina,Historical,character-driven,medium,4.75
+Harry Potter and the Philosopher's Stone,Mystery,plot-driven,long,4.54
+The Da Vinci Code,Magical Realism,character-driven,medium,4.75
+The Shining,Romance,plot-driven,long,3.34
+The Book Thief,Dystopian,character-driven,medium,3.26
+The Old Man and the Sea,Sci-Fi,character-driven,medium,4.03
+Crime and Punishment,Children,character-driven,medium,3.53
+The Girl on the Train,Satire,character-driven,long,4.1
+Les Misérables,Adventure,plot-driven,long,3.21
+The Old Man and the Sea,Philosophy,character-driven,short,4.62
+Percy Jackson & the Olympians: The Lightning Thief,Satire,plot-driven,long,4.21
+Crime and Punishment,Romance,plot-driven,short,4.36
+Lolita,Philosophy,plot-driven,medium,4.5
+The Book Thief,Sci-Fi,character-driven,short,4.1
+1984,Fiction,character-driven,long,4.86
+The Hunger Games,Sci-Fi,character-driven,short,4.33
+Gone with the Wind,Romance,plot-driven,short,4.31
+War and Peace,Sci-Fi,plot-driven,short,4.38
+The Fault in Our Stars,Dystopian,character-driven,long,4.91
+A Tale of Two Cities,Romance,plot-driven,medium,4.78
+Brave New World,Fantasy,plot-driven,long,4.33
+Dracula,Fantasy,character-driven,short,4.74
+Crime and Punishment,Fantasy,character-driven,medium,4.37
+The Secret Garden,Adventure,plot-driven,long,3.75
+Crime and Punishment,Mystery,character-driven,medium,3.29
+Memoirs of a Geisha,Mystery,character-driven,long,3.45
+Catch-22,Fiction,character-driven,medium,4.66
+Crime and Punishment,Mystery,plot-driven,short,4.44
+To Kill a Mockingbird,Satire,character-driven,long,4.69
+The Odyssey,Adventure,plot-driven,medium,4.91
+The Book Thief,Fiction,plot-driven,long,4.86
+The Girl with the Dragon Tattoo,Romance,character-driven,short,3.53
+Harry Potter and the Philosopher's Stone,Satire,plot-driven,long,3.39
+Les Misérables,Fantasy,plot-driven,short,4.34
+The Fault in Our Stars,Adventure,plot-driven,long,4.48
+Big Little Lies,Adventure,plot-driven,long,3.55
+A Tale of Two Cities,Sci-Fi,plot-driven,long,4.07
+Dracula,Classics,plot-driven,long,4.05
+The Picture of Dorian Gray,Children,plot-driven,medium,4.25
+The Giver,Philosophy,character-driven,short,4.55
+The Book Thief,Sci-Fi,character-driven,short,4.63
+Brave New World,Dystopian,plot-driven,medium,4.51
+The Lord of the Rings,Satire,character-driven,long,4.51
+The Lord of the Rings,Dystopian,character-driven,medium,4.39
+Life of Pi,Satire,plot-driven,short,4.35
+Frankenstein,Fiction,character-driven,medium,4.13
+Anna Karenina,Mystery,character-driven,short,4.18
+Life of Pi,Romance,character-driven,long,3.66
+The Kite Runner,Adventure,character-driven,long,4.34
+Lolita,Fiction,character-driven,short,4.2
+Crime and Punishment,Adventure,character-driven,long,4.34
+The Alchemist,Romance,plot-driven,long,4.92
+The Odyssey,Adventure,character-driven,medium,3.55
+The Giver,Classics,plot-driven,long,4.26
+The Count of Monte Cristo,Children,character-driven,short,4.3
+The Da Vinci Code,Mystery,character-driven,short,3.92
+War and Peace,Historical,plot-driven,long,4.75
+The Shining,Historical,character-driven,long,3.94
+Life of Pi,Mystery,plot-driven,medium,3.28
+The Great Gatsby,Sci-Fi,plot-driven,medium,4.26
+The Great Gatsby,Children,plot-driven,short,3.56
+The Girl with the Dragon Tattoo,Philosophy,plot-driven,short,4.22
+Harry Potter and the Philosopher's Stone,Mystery,plot-driven,long,4.15
+The Chronicles of Narnia,Horror,character-driven,long,3.52
+The Catcher in the Rye,Dystopian,character-driven,long,3.12
+Dracula,Children,plot-driven,medium,3.56
+Les Misérables,Dystopian,plot-driven,long,4.82
+Ender's Game,Fiction,plot-driven,short,4.88
+The Road,Children,character-driven,medium,3.91
+The Great Gatsby,Horror,character-driven,short,3.3
+Pride and Prejudice,Mystery,character-driven,medium,3.62
+Anna Karenina,Classics,character-driven,medium,4.1
+Memoirs of a Geisha,Adventure,character-driven,medium,4.49
+Anna Karenina,Fiction,character-driven,short,4.13
+The Catcher in the Rye,Romance,plot-driven,medium,3.31
+Anna Karenina,Satire,plot-driven,medium,3.96
+War and Peace,Horror,character-driven,medium,4.6
+The Odyssey,Philosophy,character-driven,medium,3.66
+The Giver,Satire,character-driven,medium,4.37
+The Alchemist,Magical Realism,character-driven,medium,4.65
+Percy Jackson & the Olympians: The Lightning Thief,Satire,plot-driven,short,4.62
+Pride and Prejudice,Fantasy,character-driven,short,4.65
+To Kill a Mockingbird,Mystery,plot-driven,short,4.46
+Alice's Adventures in Wonderland,Adventure,plot-driven,long,4.89
+Fahrenheit 451,Adventure,plot-driven,short,4.9
+Gone with the Wind,Magical Realism,plot-driven,long,4.28
+Pride and Prejudice,Sci-Fi,plot-driven,medium,4.55
+The Great Gatsby,Magical Realism,character-driven,medium,4.96
+The Great Gatsby,Satire,plot-driven,medium,3.4
+The Girl on the Train,Dystopian,plot-driven,medium,4.4
+Moby Dick,Dystopian,plot-driven,short,4.75
+Frankenstein,Children,character-driven,long,3.7
+The Hobbit,Horror,character-driven,long,3.07
+The Night Circus,Sci-Fi,character-driven,medium,4.12
+Memoirs of a Geisha,Mystery,character-driven,short,3.3
+The Book Thief,Horror,character-driven,short,4.36
+The Bell Jar,Children,plot-driven,medium,4.32
+A Game of Thrones,Mystery,plot-driven,short,4.26
+The Little Prince,Satire,character-driven,long,4.31
+The Girl on the Train,Historical,character-driven,medium,4.58
+Crime and Punishment,Historical,plot-driven,long,4.43
+The Alchemist,Satire,plot-driven,long,3.3
+The Fault in Our Stars,Satire,character-driven,long,3.63
+The Secret Garden,Fiction,plot-driven,medium,4.91
+Ender's Game,Historical,character-driven,short,3.81
+The Girl on the Train,Children,character-driven,medium,4.44
+The Giver,Fiction,plot-driven,long,4.34
+The Picture of Dorian Gray,Philosophy,plot-driven,short,4.47
+Wuthering Heights,Mystery,plot-driven,short,4.2
+Percy Jackson & the Olympians: The Lightning Thief,Mystery,plot-driven,short,3.37
+The Chronicles of Narnia,Romance,plot-driven,short,3.98
+Moby Dick,Historical,plot-driven,long,4.1
+The Odyssey,Mystery,plot-driven,long,4.4
+The Little Prince,Mystery,character-driven,short,3.14
+Catch-22,Fantasy,plot-driven,medium,4.36
+Crime and Punishment,Fiction,plot-driven,medium,4.29
+The Da Vinci Code,Fiction,character-driven,long,4.88
+1984,Dystopian,character-driven,medium,3.98
+Ender's Game,Philosophy,plot-driven,medium,4.81
+One Hundred Years of Solitude,Romance,character-driven,medium,3.73
+Moby Dick,Horror,plot-driven,medium,3.65
+The Hunger Games,Magical Realism,plot-driven,medium,3.4
+The Maze Runner,Mystery,plot-driven,medium,4.68
+Pride and Prejudice,Mystery,plot-driven,short,3.34
+The Count of Monte Cristo,Sci-Fi,character-driven,medium,4.44
+The Hunger Games,Classics,plot-driven,medium,4.76
+A Game of Thrones,Historical,plot-driven,short,4.83
+Moby Dick,Dystopian,plot-driven,medium,3.28
+Anna Karenina,Mystery,character-driven,short,4.45
+The Count of Monte Cristo,Fantasy,character-driven,medium,4.3
+Big Little Lies,Fiction,character-driven,medium,4.97
+Harry Potter and the Philosopher's Stone,Dystopian,plot-driven,long,3.15
+Brave New World,Historical,character-driven,short,3.55
+The Road,Classics,character-driven,short,4.26
+One Hundred Years of Solitude,Fiction,plot-driven,medium,4.46
+Lolita,Horror,plot-driven,medium,4.65
+Slaughterhouse-Five,Satire,plot-driven,short,4.35
+The Giver,Mystery,plot-driven,long,4.38
+The Hunger Games,Fiction,plot-driven,short,4.69
+The Chronicles of Narnia,Horror,character-driven,long,4.08
+The Hunger Games,Magical Realism,character-driven,medium,4.27
+Memoirs of a Geisha,Children,plot-driven,short,3.78
+Anna Karenina,Romance,character-driven,short,3.48
+A Game of Thrones,Dystopian,plot-driven,medium,3.17
+The Lord of the Rings,Sci-Fi,plot-driven,short,4.76
+Brave New World,Dystopian,plot-driven,short,3.46
+The Great Gatsby,Dystopian,character-driven,short,3.96
+The Alchemist,Adventure,plot-driven,medium,3.28
+The Odyssey,Dystopian,character-driven,short,4.19
+Wuthering Heights,Horror,plot-driven,long,4.24
+War and Peace,Horror,character-driven,medium,4.21
+Slaughterhouse-Five,Satire,plot-driven,long,3.23
+Gone with the Wind,Magical Realism,plot-driven,short,4.63
+The Bell Jar,Fiction,character-driven,medium,4.93
+The Da Vinci Code,Classics,plot-driven,short,4.37
+The Old Man and the Sea,Children,character-driven,short,4.08
+Moby Dick,Horror,character-driven,short,3.42
+The Catcher in the Rye,Philosophy,plot-driven,medium,3.27
+The Maze Runner,Children,plot-driven,long,4.23
+The Odyssey,Dystopian,plot-driven,long,4.76
+Ender's Game,Fantasy,character-driven,medium,4.83
+The Great Gatsby,Mystery,plot-driven,long,4.21
+The Hobbit,Horror,character-driven,short,4.91
+Brave New World,Fiction,character-driven,short,4.92
+Alice's Adventures in Wonderland,Dystopian,plot-driven,short,4.41
+A Thousand Splendid Suns,Classics,plot-driven,short,4.05
+Les Misérables,Magical Realism,character-driven,medium,3.88
+Dracula,Adventure,plot-driven,short,3.23
+A Game of Thrones,Satire,character-driven,short,4.53
+To Kill a Mockingbird,Fantasy,character-driven,long,4.13
+The Secret Garden,Sci-Fi,plot-driven,long,4.45
+Anna Karenina,Mystery,character-driven,short,4.2
+The Book Thief,Mystery,plot-driven,long,4.7
+1984,Adventure,character-driven,medium,4.9
+To Kill a Mockingbird,Mystery,plot-driven,long,4.93
+Memoirs of a Geisha,Magical Realism,plot-driven,long,3.5
+Lolita,Romance,plot-driven,long,5.0
+A Game of Thrones,Adventure,plot-driven,short,4.55
+The Great Gatsby,Sci-Fi,plot-driven,medium,4.49
+Percy Jackson & the Olympians: The Lightning Thief,Romance,plot-driven,short,3.01
+Pride and Prejudice,Classics,plot-driven,long,4.89
+The Catcher in the Rye,Fiction,plot-driven,medium,4.81
+The Book Thief,Philosophy,character-driven,medium,4.74
+Brave New World,Satire,plot-driven,long,3.05
+The Book Thief,Fantasy,character-driven,long,4.51
+The Hunger Games,Mystery,plot-driven,medium,3.7
+The Girl with the Dragon Tattoo,Fiction,plot-driven,short,4.32
+1984,Mystery,character-driven,medium,4.06
+The Girl on the Train,Magical Realism,plot-driven,medium,4.23
+The Lord of the Rings,Classics,character-driven,medium,4.55
+The Alchemist,Magical Realism,character-driven,short,4.35
+Slaughterhouse-Five,Romance,character-driven,short,3.77
+A Tale of Two Cities,Satire,plot-driven,medium,3.38
+The Giver,Adventure,character-driven,short,4.37
+The Girl with the Dragon Tattoo,Classics,character-driven,short,4.01
+Life of Pi,Romance,plot-driven,long,3.2
+Percy Jackson & the Olympians: The Lightning Thief,Mystery,plot-driven,long,3.85
+The Kite Runner,Philosophy,plot-driven,medium,3.27
+The Old Man and the Sea,Classics,plot-driven,medium,4.97
+The Little Prince,Philosophy,character-driven,medium,4.66
+Brave New World,Mystery,character-driven,long,4.59
+The Chronicles of Narnia,Mystery,plot-driven,medium,3.73
+The Fault in Our Stars,Romance,character-driven,medium,4.36
+The Old Man and the Sea,Children,plot-driven,long,3.87
+The Picture of Dorian Gray,Magical Realism,character-driven,medium,4.29
+Lolita,Classics,character-driven,medium,4.75
+Les Misérables,Children,character-driven,short,4.17
+Brave New World,Adventure,plot-driven,short,4.34
